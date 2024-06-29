@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshkumarks1&label=Profile%20views&color=0e75b6&style=flat" alt="sureshkumarks1" /> </p>
 
-- 🌱 I’m currently learning **React, Redux JS**
+- 🌱 I’m currently learning **Agile-scrum and waterfall**
 
 - 📫 How to reach me **sureshkumarks1@gmail.com**
 
